@@ -1,0 +1,7 @@
+{
+  "name": "Razorpay SDR Voice Agent",
+  "description": "A conversational voice agent representing a Razorpay SDR that answers FAQs and collects lead information in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
